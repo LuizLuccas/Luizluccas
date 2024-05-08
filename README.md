@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+<div>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=luiz1807&count_private=true&show_icons=true&theme=nightowl">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1807&langs_count=8&hide_progress=true&theme=nightowl">
+</div>****
+
 <!--
-**LuizLuccas/Luizluccas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Luiz1807/luiz1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
